@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homejam/static/css/main.ebd22878.css",
+    "main.js": "/homejam/static/js/main.86a29326.js",
+    "index.html": "/homejam/index.html",
+    "main.ebd22878.css.map": "/homejam/static/css/main.ebd22878.css.map",
+    "main.86a29326.js.map": "/homejam/static/js/main.86a29326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd22878.css",
+    "static/js/main.86a29326.js"
+  ]
+}
